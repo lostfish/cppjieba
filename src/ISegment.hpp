@@ -4,7 +4,7 @@
 
 namespace CppJieba
 {
-    class ISegment
+    class ISegment //分词抽象类
     {
         public:
             virtual ~ISegment(){};
